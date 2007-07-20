@@ -3,12 +3,12 @@
 %define		_status		beta
 %define		_pearname	%{_class}_%{_subclass}
 
-%define		_requires_exceptions pear(PHPUnit.php)
+%define		_requires_exceptions pear(PHPUnit
 
 Summary:	%{_pearname} - API to build and query nested sets
 Name:		php-pear-%{_pearname}
 Version:	1.3.6
-Release:	%mkrel 8
+Release:	%mkrel 9
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
