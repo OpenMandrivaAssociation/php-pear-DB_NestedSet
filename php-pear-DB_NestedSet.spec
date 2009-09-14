@@ -8,7 +8,7 @@
 Summary:	%{_pearname} - API to build and query nested sets
 Name:		php-pear-%{_pearname}
 Version:	1.4.0RC1
-Release:	%mkrel 3
+Release:	%mkrel 4
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
