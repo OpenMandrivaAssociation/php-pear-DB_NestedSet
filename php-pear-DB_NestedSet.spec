@@ -5,8 +5,8 @@
 %define		_requires_exceptions pear(PHPUnit
 
 Name:		php-pear-%{upstream_name}
-Version:	1.4.0RC1
-Release:	%mkrel 5
+Version:	1.4.1
+Release:	%mkrel 1
 Summary:	API to build and query nested sets
 License:	PHP License
 Group:		Development/PHP
