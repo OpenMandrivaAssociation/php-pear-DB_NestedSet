@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.4.1
-Release:	5
+Release:	6
 Summary:	API to build and query nested sets
 License:	PHP License
 Group:		Development/PHP
