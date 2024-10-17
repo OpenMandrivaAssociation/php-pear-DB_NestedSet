@@ -8,7 +8,7 @@ Release:	6
 Summary:	API to build and query nested sets
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/DB_NestedSet/
+URL:		https://pear.php.net/package/DB_NestedSet/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
